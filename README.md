@@ -1,3 +1,5 @@
+> 本开源书 forked from [Rust 程序设计语言（第一版） 简体中文版](https://github.com/KaiserY/rust-book-chinese)，作者为 [KaiserY](https://github.com/KaiserY)，欢迎大家 star 原作者的 [repo](https://github.com/KaiserY/rust-book-chinese)，以便获得最新更新，谢谢！
+
 [![相同方式共享 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "相同方式共享 4.0")](http://creativecommons.org/licenses/by-sa/4.0/)
 
 本作品采用 [知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
